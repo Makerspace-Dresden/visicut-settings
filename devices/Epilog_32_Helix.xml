@@ -1,0 +1,22 @@
+<laserDevice>
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText>Job was sent as &apos;$jobname&apos;
+Please:
+-Close the lid
+-Turn on the Ventilation
+-And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+  <jobPrefix>visicut </jobPrefix>
+  <laserCutter class="com.t_oster.liblasercut.drivers.EpilogHelix">
+    <hostname>10.0.0.1</hostname>
+    <port>515</port>
+    <autofocus>false</autofocus>
+    <bedWidth>600.0</bedWidth>
+    <bedHeight>300.0</bedHeight>
+  </laserCutter>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <thumbnailPath>Epilog_32_Helix.png</thumbnailPath>
+  <name>Epilog Helix</name>
+</laserDevice>
