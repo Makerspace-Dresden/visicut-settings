@@ -1,16 +1,16 @@
 <visicutPreferences>
-  <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
+  <defaultMapping>Farbmapping Makerspace Dresden (rot=gravieren, grün=rastergravieren, blau=schneiden)</defaultMapping>
   <disableSandbox>false</disableSandbox>
-  <useFilenamesForJobs>false</useFilenamesForJobs>
-  <labName>FAU FabLab</labName>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
+  <labName>Makerspace Dresden</labName>
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
   <windowBounds>
-    <x>386</x>
-    <y>184</y>
-    <width>1145</width>
-    <height>834</height>
+    <x>0</x>
+    <y>31</y>
+    <width>1143</width>
+    <height>733</height>
   </windowBounds>
   <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
   <recentFiles>
@@ -18,9 +18,8 @@
     <string>/tmp/ink_ext_XXXXXX.svg5SZDBZ.svg</string>
     <string>/tmp/ink_ext_XXXXXX.svgENAKBZ.svg</string>
     <string>/tmp/ink_ext_XXXXXX.svgUNCEBZ.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgLSIIBZ.svg</string>
   </recentFiles>
-  <lastMaterial>Acryl</lastMaterial>
+  <lastMaterial>Finnpappe</lastMaterial>
   <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
