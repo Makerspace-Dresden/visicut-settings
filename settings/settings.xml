@@ -6,6 +6,10 @@
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
+  <fabqrPrivateURL></fabqrPrivateURL>
+  <fabqrPublicURL></fabqrPublicURL>
+  <fabqrPrivateUser></fabqrPrivateUser>
+  <fabqrPrivatePassword></fabqrPrivatePassword>
   <windowBounds>
     <x>0</x>
     <y>31</y>
@@ -23,6 +27,7 @@
   <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <fabLabLocationFacebookId></fabLabLocationFacebookId>
   <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
   <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
 </visicutPreferences>
